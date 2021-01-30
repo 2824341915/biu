@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # 小马加加
+=======
+# 合成王秋蔓
+>>>>>>> 738fea254e081a7dd094f4988445aa972e9fe89a
 
 #### Description
 {**When you're done, you can delete the content in this README and update the file with details for others getting started with your repository**}
