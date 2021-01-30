@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # 小马加加
 =======
 # 合成王秋蔓
@@ -11,6 +12,9 @@
 =======
 # 合成金钟云
 >>>>>>> b36afeea88e381b6a9b9ed54d43ab4b09f8f7190
+=======
+# 合成小幂
+>>>>>>> 56f41b2d63de2e3739c17cfeed41d2b57a535586
 
 #### Description
 {**When you're done, you can delete the content in this README and update the file with details for others getting started with your repository**}
