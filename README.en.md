@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # 小马加加
 =======
 # 合成王秋蔓
@@ -15,6 +16,9 @@
 =======
 # 合成小幂
 >>>>>>> 56f41b2d63de2e3739c17cfeed41d2b57a535586
+=======
+# 合成小幂
+>>>>>>> d94bb4fa5c13402da53fe35cadecd3c3e757c464
 
 #### Description
 {**When you're done, you can delete the content in this README and update the file with details for others getting started with your repository**}
