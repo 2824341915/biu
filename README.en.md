@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # 小马加加
 =======
 # 合成王秋蔓
@@ -7,6 +8,9 @@
 =======
 # 合成大闪电
 >>>>>>> 211419b3b194eea6f509b71f11c501ae7a9ce9a8
+=======
+# 合成金钟云
+>>>>>>> b36afeea88e381b6a9b9ed54d43ab4b09f8f7190
 
 #### Description
 {**When you're done, you can delete the content in this README and update the file with details for others getting started with your repository**}
