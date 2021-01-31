@@ -15,6 +15,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # 小马加加
 =======
 # 合成王秋蔓
@@ -64,6 +65,9 @@
 =======
 # 合成HARUTO
 >>>>>>> 6e6e521c85ca7c1bcadc0d923f53ac6f7c9f51ef
+=======
+# HARUTO
+>>>>>>> 0af3fcec9cead1a12499dcb94e921b4cd4715919
 
 #### 介绍
 {**以下是 Gitee 平台说明，您可以替换此简介**
@@ -118,6 +122,7 @@ Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN�
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 # 合成大欧派（P家） #
 
@@ -156,3 +161,5 @@ Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN�
 >>>>>>> 0b66feeb342fdff3e85a6af3e3b09377a9bd1d9e
 =======
 >>>>>>> 6e6e521c85ca7c1bcadc0d923f53ac6f7c9f51ef
+=======
+>>>>>>> 0af3fcec9cead1a12499dcb94e921b4cd4715919
