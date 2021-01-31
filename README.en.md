@@ -9,6 +9,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # 小马加加
 =======
 # 合成王秋蔓
@@ -43,6 +44,9 @@
 =======
 # 羊羊羊
 >>>>>>> 0b66feeb342fdff3e85a6af3e3b09377a9bd1d9e
+=======
+# 合成HARUTO
+>>>>>>> 6e6e521c85ca7c1bcadc0d923f53ac6f7c9f51ef
 
 #### Description
 {**When you're done, you can delete the content in this README and update the file with details for others getting started with your repository**}
